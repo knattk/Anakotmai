@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Anakotmai';
+      src:  url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-light.eot');
+      src:  url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-light.eot?#iefix') format('embedded-opentype'),
+            url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-light.woff2') format('woff2'),
+            url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-light.woff') format('woff'),
+   font-weight: 200;
+   font-style: 200;
+}
+@font-face {
+   font-family: 'Anakotmai';
+      src:  url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-medium.eot');
+      src:  url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-medium.eot?#iefix') format('embedded-opentype'),
+            url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-medium.woff2') format('woff2'),
+            url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-medium.woff') format('woff'),
+   font-weight: 300;
+   font-style: 300;
+}
+@font-face {
+   font-family: 'Anakotmai';
+      src:  url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-bold.eot');
+      src:  url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-bold.eot?#iefix') format('embedded-opentype'),
+            url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-bold.woff2') format('woff2'),
+            url('https://github.com/knattk/Anakotmai/raw/master/anakotmai-bold.woff') format('woff'),
+   font-weight: 400;
+   font-style: 400;
+}
+// by Khwan
